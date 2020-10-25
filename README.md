@@ -4,7 +4,7 @@ Este trabajo fue inspirado por los estudios de Diaz-Pinto: https://biomedical-en
 
 ## SickSounds Dateset  
 - Original -> https://osf.io/tmkud/  
-- Preprocesada ->  https://drive.google.com/file/d/1Yd5kKNXUOkzuRmZKFqyvZt0wba-3pMRC/view?usp=sharing  
+- Preprocesada ->  https://Pendiente.com  
 
 ![Split](https://fotos.subefotos.com/e71c2b4718c577b7b51b413cb2114278o.png) 
  
